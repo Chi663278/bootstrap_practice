@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hd1 {
+  height: 100px;
+  background-color: #ff00ff;
+}
+
+.hd2 {
+  height: 50px;
+  background-color: #fbb3ff;
+}
+
+.hd2 {
+  height: 50px;
+  background-color: #fbb3ff;
+}
+
+.bd1 {
+  background-color: #d8ffb6;
+}
+
+.bd2 {
+  height: 400px;
+  background-color: #00b522;
+}
+
+.bd3 {
+  height: 100px;
+  background-color: #fff75a;
+}
+
+.ft1 {
+  height: 100px;
+  background-color: #52a1ff;
+}
+
+.ft2 {
+  height: 25px;
+  background-color: #b6e7ff;
+}
